@@ -11,7 +11,7 @@ print(my_birthday)
 print(type(my_birthday))
 st='samet'
 print(st)
-print(type(print))
+print(type(st))
 grade=4.5
 grade=int(grade)
 print(grade)
